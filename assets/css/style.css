@@ -235,6 +235,18 @@ div.rpg{
 	position:relative;
 }
 
+.portfoliolinks{
+	color: #E1E1E1;
+    /*background-color: transparent;*/
+    text-decoration: none;
+}
+
+/*.portfoliolinks: visited {
+    color: yellow;
+    /*background-color: transparent;
+    text-decoration: none;
+}*/
+
 #rpg{
 	position:absolute;
 	bottom:30px;
